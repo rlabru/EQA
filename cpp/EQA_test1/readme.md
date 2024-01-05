@@ -2,6 +2,8 @@ Qt c++ test program
 
 * Folder EQA_test1:
 
+Contains first generation of testing program compatible with FPGA version 010.
+
 EQA_test1.pro
 
 main.cpp
