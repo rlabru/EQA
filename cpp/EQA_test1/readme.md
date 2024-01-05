@@ -1,0 +1,2 @@
+Qt c++ test program
+
