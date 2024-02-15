@@ -19,4 +19,6 @@ Read HDD ID sector result:
 
 ![Read HDD ID sector result](read_id.png)
 
+[![Video about EQA](https://img.youtube.com/vi/I2LFnWjfUV8/0.jpg)](https://www.youtube.com/watch?v=I2LFnWjfUV8)
+
 Author: Sergei Yatsenko <s@rlab.ru>
